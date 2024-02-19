@@ -7,6 +7,7 @@
     height: 430px;
     object-fit: contain;
 }
+
 .meme-generator .generate-meme-btn {
     padding: 8px 20px;
     border: none;
